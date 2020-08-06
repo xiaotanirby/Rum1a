@@ -1,13 +1,9 @@
 <html>
 
-<head>
-<title>你说你妈呢</title>
-</head>
+<body background='http://i1.fuimg.com/608576/5d915b7d802b7b69.jpg'>
 
-<body>
-<p>啊这</p>
-<p>hmmmmm</p>
-<img src='http://i1.fuimg.com/608576/a7167935bc38ab13.jpg'>
+
+
+
 </body>
-
 </html>
